@@ -18,6 +18,7 @@
 
 [More scratch](src/scratch)
 
+[More info about my web dev](https://cilyy.com/acquired)
 ## Display
 
 ### *Home Page*
